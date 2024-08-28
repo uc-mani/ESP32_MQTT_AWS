@@ -1,4 +1,4 @@
-# ESP32 with AWS IoT Core using MQTT
+# ESP32 connection with AWS IoT Core using MQTT
 
 Description:
 In this project the ESP32 is connected with AWS IoT Core & publish sensor reading to AWS MQTT. 
