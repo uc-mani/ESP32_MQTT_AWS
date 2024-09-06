@@ -1,7 +1,7 @@
-# ESP32 connection with AWS IoT Core using MQTT
+# ESP32 connection with AWS IoT Core using MQTT (secure)
 
 Description:
-In this project the ESP32 is connected with AWS IoT Core & publish sensor reading to AWS MQTT. 
+In this project the ESP32 is connected with AWS IoT Core & publish sensor reading to AWS MQTT. The TLS certificates from AWS IoT Core are used to make sure the communication between ESP32 and AWS is secure.
 We are using DHT22 Sensor and reading the humidity and temperature data. 
 The ESP32 connects to the local WiFi network and publish DHT22 Sensor data to AWS IoT Cloud. We can also receive the data from AWS Dashboard into the ESP32 and display on serial.
 
