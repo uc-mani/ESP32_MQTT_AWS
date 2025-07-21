@@ -35,6 +35,8 @@ Subscribe and Publish data to and from AWS Dashboard on MQTT test client.
 
 
 
+## ESP32-S3
+![ESP32-S3](https://github.com/user-attachments/assets/3b383638-38a8-4595-b13c-3ba11b7f2b3c)
 
 
 
